@@ -17,4 +17,4 @@ pyinstaller  --onefile --windowed --icon=main.ico -n "四边形物体标注工�
 ```
 
 ## 截图
-![avatar](screenshots/2019-01-20 14-37-34屏幕截图.png)
+![](screenshots/2019-01-20 14-37-34屏幕截图.png)
