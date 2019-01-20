@@ -7,6 +7,6 @@ pefile==2018.8.8
 PyInstaller==3.4
 PySide2==5.12.0
 pywin32-ctypes==0.2.0
-PyYAML==3.13
+PyYAML>=4.2b1
 shiboken2==5.12.0
 wincertstore==0.2
